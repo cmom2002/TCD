@@ -1,0 +1,5 @@
+# .gitignore
+
+# Pasta a ignorar
+dicionary_inicial.pkl
+dicionary_normalized.pkl
